@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OPAC</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="planets_array">
+        <item>Title</item>
+        <item>Author Name</item>
+        <item>Publisher Name</item>
+        <item>Keywords</item>
+        <item>Main Subject</item>
+        <item>Sub Subject</item>
+        <item>Accession No.</item>
+        <item>ISBN</item>
+    </string-array>
+</resources>

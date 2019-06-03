@@ -1,0 +1,60 @@
+{
+  "project_info": {
+    "project_number": "833654871396",
+    "firebase_url": "https://opac-a82c4.firebaseio.com",
+    "project_id": "opac-a82c4",
+    "storage_bucket": "opac-a82c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833654871396:android:155fce994abfb060",
+        "android_client_info": {
+          "package_name": "com.appsaga.opac1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833654871396-2bo7uhep2ffcv5m3el83pg01fp19s9sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsaga.opac1",
+            "certificate_hash": "0442fc66fc11b103c55f5047820bd13866f0cae0"
+          }
+        },
+        {
+          "client_id": "833654871396-0mvduv3nlsd255uabdp5h6e14ghbhj9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsaga.opac1",
+            "certificate_hash": "9d15ff30be6a3deb80d2e965b90ce4af8086fbe1"
+          }
+        },
+        {
+          "client_id": "833654871396-rsuamna1e0ql2akg64v0df7vs1r05v11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsaga.opac1",
+            "certificate_hash": "4046bbce3f0994d01ed92ba58d6b4412858b9669"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1_jW1vysdDO2amKvOvaXI32nT0XKUns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833654871396-nrj9ut9a79o9qfqhfiharp1m1r2rjeqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
